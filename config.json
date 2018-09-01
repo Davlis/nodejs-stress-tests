@@ -1,0 +1,7 @@
+{
+    "tests": [
+        { "app": "mono", "port": 8080 },
+        { "app": "cluster", "port": 8081 },
+        { "app": "cluster-crash", "port": 8082 }
+    ]
+}
